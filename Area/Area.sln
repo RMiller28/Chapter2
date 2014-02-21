@@ -1,15 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room", "Area\Room.csproj", "{B4B11E61-6EEB-465E-B90B-362346479436}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "..\Carpet\Carpet.csproj", "{1B1A3908-F956-4D39-B5DE-0FA4F62B9311}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoursAndMinutes", "..\Yards\HoursAndMinutes.csproj", "{F8F46535-9C9A-4A98-A97E-00388367E076}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eggs", "..\Eggs\Eggs.csproj", "{8BDE0A89-EFD3-4DEC-94C8-18F4AAE44F00}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "..\Payroll\Payroll.csproj", "{6FC4EEDF-BDC5-4136-B024-F4127CC8F845}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "Area\Area.csproj", "{B4B11E61-6EEB-465E-B90B-362346479436}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,22 +13,6 @@ Global
 		{B4B11E61-6EEB-465E-B90B-362346479436}.Debug|x86.Build.0 = Debug|x86
 		{B4B11E61-6EEB-465E-B90B-362346479436}.Release|x86.ActiveCfg = Release|x86
 		{B4B11E61-6EEB-465E-B90B-362346479436}.Release|x86.Build.0 = Release|x86
-		{1B1A3908-F956-4D39-B5DE-0FA4F62B9311}.Debug|x86.ActiveCfg = Debug|x86
-		{1B1A3908-F956-4D39-B5DE-0FA4F62B9311}.Debug|x86.Build.0 = Debug|x86
-		{1B1A3908-F956-4D39-B5DE-0FA4F62B9311}.Release|x86.ActiveCfg = Release|x86
-		{1B1A3908-F956-4D39-B5DE-0FA4F62B9311}.Release|x86.Build.0 = Release|x86
-		{F8F46535-9C9A-4A98-A97E-00388367E076}.Debug|x86.ActiveCfg = Debug|x86
-		{F8F46535-9C9A-4A98-A97E-00388367E076}.Debug|x86.Build.0 = Debug|x86
-		{F8F46535-9C9A-4A98-A97E-00388367E076}.Release|x86.ActiveCfg = Release|x86
-		{F8F46535-9C9A-4A98-A97E-00388367E076}.Release|x86.Build.0 = Release|x86
-		{8BDE0A89-EFD3-4DEC-94C8-18F4AAE44F00}.Debug|x86.ActiveCfg = Debug|x86
-		{8BDE0A89-EFD3-4DEC-94C8-18F4AAE44F00}.Debug|x86.Build.0 = Debug|x86
-		{8BDE0A89-EFD3-4DEC-94C8-18F4AAE44F00}.Release|x86.ActiveCfg = Release|x86
-		{8BDE0A89-EFD3-4DEC-94C8-18F4AAE44F00}.Release|x86.Build.0 = Release|x86
-		{6FC4EEDF-BDC5-4136-B024-F4127CC8F845}.Debug|x86.ActiveCfg = Debug|x86
-		{6FC4EEDF-BDC5-4136-B024-F4127CC8F845}.Debug|x86.Build.0 = Debug|x86
-		{6FC4EEDF-BDC5-4136-B024-F4127CC8F845}.Release|x86.ActiveCfg = Release|x86
-		{6FC4EEDF-BDC5-4136-B024-F4127CC8F845}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
